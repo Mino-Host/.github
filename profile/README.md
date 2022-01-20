@@ -10,4 +10,4 @@ Mino Host is a brand-new All-In-One hosting solution. Include web hosting, game 
 
 ## Contact Us
 
-[Official Discord guild](https://discord.gg/Xg3h2VWshF)
+[Discord](https://discord.gg/Xg3h2VWshF)
