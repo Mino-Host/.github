@@ -1,4 +1,4 @@
-# Hi 👋, Welcome to the Mino Host
+# Hi 👋, Welcome to Mino Host
 
 ## About Us
 
