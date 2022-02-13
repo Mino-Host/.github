@@ -1,13 +1,14 @@
-# Hi 👋, Welcome to Mino Host
+# 嗨 👋，歡迎來到米諾託管 Hi 👋, Welcome to Mino Host
 
-## About Us
+## 關於我們 About Us
 
-Mino Host is a brand-new All-In-One hosting solution. We offers affordable containerized servers and dedicated private servers hosting.
+米諾託管是一家專注於伺服器性價比與客戶體驗的託管提供商，我們提供經濟實惠的容器型伺服器和專用伺服器託管。
+Mino Host is a hosting provider focusing on server cost-performance ratio and customer experience. We offers affordable containerized servers and dedicated private servers hosting.
 
-## Website
+## 官網 Website
 
 [Click Me](https://www.mino.host)
 
-## Contact Us
+## 聯絡我們 Contact Us
 
 [Discord](https://discord.gg/Xg3h2VWshF)
