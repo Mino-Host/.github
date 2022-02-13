@@ -7,7 +7,7 @@ Mino Host is a hosting provider focusing on server cost-performance ratio and cu
 
 ## 官網 Website
 
-[Click Me](https://www.mino.host)
+[點我 Click Me](https://www.mino.host)
 
 ## 聯絡我們 Contact Us
 
