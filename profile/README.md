@@ -2,7 +2,7 @@
 
 ## About Us
 
-Mino Host is a brand-new All-In-One hosting solution. Include web hosting, game hosting, VPS hosting... etc
+Mino Host is a brand-new All-In-One hosting solution. We offers affordable containerized servers and dedicated private servers hosting.
 
 ## Website
 
