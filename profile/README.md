@@ -2,7 +2,7 @@
 
 ## About Us
 
-Mino Host is a hosting provider focusing on customers experience. We offer affordable containerized servers and dedicated private servers hosting.
+Mino Host is a hosting provider focusing on customers' experience. We offer affordable containerized servers and dedicated private servers hosting.
 
 ## Website
 
