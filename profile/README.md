@@ -10,4 +10,4 @@ Mino Host is a hosting provider focusing on customers' experiences. We offer aff
 
 ## Contact Us
 
-[Discord](https://discord.gg/Xg3h2VWshF)
+[Discord](https://dsc.gg/minohost)
